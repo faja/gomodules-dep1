@@ -1,1 +1,1 @@
-module github.com/faja/gomodules-dep1
+module github.com/faja/gomodules-dep1/v2
